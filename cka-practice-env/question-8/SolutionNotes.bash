@@ -1,0 +1,7 @@
+#!/bin/bash
+# kubelet: process
+# kube-apiserver: static-pod
+# kube-scheduler: static-pod
+# kube-controller-manager: static-pod
+# etcd: static-pod
+# dns: pod CoreDNS
